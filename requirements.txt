@@ -1,0 +1,31 @@
+# Core data handling
+pandas
+numpy
+datetime
+
+# API requests
+requests
+aiohttp
+httpx  # for async HTTP if needed
+ratelimit
+tenacity  # for retry logic
+
+# JSON, parsing and data wrangling
+python-dotenv
+pyyaml
+
+# Time management
+pytz
+pendulum  # better datetime handling
+
+# Data visualization)
+matplotlib
+seaborn
+plotly
+
+# For caching and performance
+joblib
+
+# Working with databases and Api
+requests 
+pycoingecko
